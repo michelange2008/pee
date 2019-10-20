@@ -1,0 +1,32 @@
+{
+  "propositions":
+  {
+    "nom" : "Nos propositions",
+    "route" : "propositions.php",
+    "icone" : "propositions.svg"
+  },
+  "plus":
+  {
+    "nom" : "En savoir plus",
+    "route": "plus.php",
+    "icone" : "plus.svg"
+  },
+  "manifeste" :
+  {
+    "nom" : "Le manifeste",
+    "route" : "manifeste.php",
+    "icone" : "manifeste.svg"
+  },
+  "evenements" :
+  {
+    "nom" : "Evènements",
+    "route": "evenements.php",
+    "icone" : "evenements.svg"
+  },
+  "collectif" :
+  {
+    "nom" : "Le collectif",
+    "route" : "collectif.php",
+    "icone" : "collectif.svg"
+  }
+}

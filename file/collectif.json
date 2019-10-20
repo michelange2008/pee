@@ -1,0 +1,92 @@
+{
+  "antikor" :
+  {
+    "nom": "Antikor SCOP de vétérinaires",
+    "svg": "antikor.svg",
+    "lien": "#"
+  },
+  "apothicare" :
+  {
+    "nom" : "Apothi'care",
+    "svg" : "apoth.svg",
+    "lien" : "#"
+  },
+  "biolait" :
+  {
+    "nom" : "Biolait",
+    "svg" : "biolait.svg",
+    "lien" : "https://www.biolait.eu/"
+  },
+  "civam" :
+  {
+    "nom" : "Réseau CIVAM",
+    "svg" : "civam.svg",
+    "lien" : "http://www.civam.org/"
+  },
+  "conf" :
+  {
+    "nom" : "Confédération Paysanne",
+    "svg" : "conf.svg",
+    "lien" : "http://confederationpaysanne.fr/"
+  },
+  "fadear" :
+  {
+    "nom" : "Réseau de l'Agriculture Paysanne",
+    "svg" : "fadear.svg",
+    "lien" : "http://www.agriculturepaysanne.org/"
+  },
+  "fevec":
+  {
+    "nom" : "Fédération des Eleveurs et Vétérinaires en Convention",
+    "svg" : "fevec.svg",
+    "lien" : "#"
+  },
+  "fnab" :
+  {
+    "nom" : "Fédération Nationale d'Agriculture Biologique",
+    "svg" : "fnab.svg",
+    "lien" : "http://www.fnab.org/"
+  },
+  "fngds" :
+  {
+    "nom" : "Fédération nationale des Groupements de Défense Sanitaire",
+    "svg" : "gds.svg",
+    "lien" : "https://www.sante-animale.com/"
+  },
+  "giezv" :
+  {
+    "nom" : "GIE Zone Verte",
+    "svg" : "giezv.svg",
+    "lien" : "https://www.giezoneverte.com"
+  },
+  "itab" :
+  {
+    "nom" : "Institut de l'Agriculture et de l'Alimentation Biologique",
+    "svg" : "itab.svg",
+    "lien" : "itab.asso.fr"
+  },
+  "iteipmai" :
+  {
+    "nom" : "Organisme français qualifié de recherche pour le développement des plantes à parfum, médicinales et aromatiques",
+    "svg" : "iteipmai.svg",
+    "lien" : "https://www.iteipmai.fr/"
+  },
+  "simples" :
+  {
+    "nom" : "Syndicat professionnel de productrices et de producteurs de plantes aromatiques et médicinales",
+    "svg" : "simples.svg",
+    "lien" : "https://www.syndicat-simples.org/"
+  },
+  "trame" :
+  {
+    "nom" : "Des réseaux et un centre de ressources agricole et rural",
+    "svg" : "trame.svg",
+    "lien" : "http://trame.org"
+  },
+  "cr" :
+  {
+    "nom" : "Coordination Rurale",
+    "svg" : "CR.svg",
+    "lien" : "https://coordinationrurale.fr"
+  }
+}

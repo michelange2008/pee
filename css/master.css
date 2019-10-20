@@ -1,0 +1,104 @@
+html, body {
+    background-color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+li {
+  margin-bottom: 5px;
+}
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.mt-0 {
+  margin-top: 0 !important;
+}
+.menu_items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.petit_espace {
+  margin: 1%;
+  background: lightgrey;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 5px;
+}
+
+.border0 {
+  box-shadow: 0 0 0 0 !important;
+}
+
+.parallax-container .parallax {
+  position: initial  !important;
+}
+
+.img100 {
+  max-width: 100%;
+}
+
+.groupe_logos {
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.cadre_logo {
+  padding: 3%;
+  min-width: 20%;
+}
+
+.cadre_logo > a > img {
+  width : 100%;
+}
+
+.manifeste {
+  padding: 10px 20px !important;
+}
+
+.vignettes {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.vignette{
+  margin: 5%;
+}
+
+.fb {
+  filter: opacity(0.2);
+}
+.fb:hover {
+  filter: opacity(1);
+}
+
+.pnda {
+  padding: 10px;
+  margin: 10px 0;
+  text-align: justify;
+}
+.plantes_biostim_adapt {
+  display: flex;
+}
+.plantes_adapt {
+  background: url("../img/adapt.svg") no-repeat center;
+  background-size: contain;
+}
+.decale {
+  margin-left: 30px;
+}
+.plante_main {
+  background: url("../img/plante_main.svg") no-repeat right;
+  background-size: contain;
+}

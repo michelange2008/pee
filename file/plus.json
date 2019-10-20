@@ -1,0 +1,27 @@
+{
+  "prodbio" :
+  {
+    "mini" : "https://www.produire-bio.fr/articles-pratiques/phytotherapie-quel-contexte-reglementaire-en-agriculture-biologique",
+    "nom" : "Quel contexte réglementaire en agriculture biologique"
+  },
+  "itab" :
+  {
+    "mini" : "http://www.itab.asso.fr/activites/el-sante-plantes.php",
+    "nom" : "L'usage des plantes en santé animale"
+  },
+  "traitbio" :
+  {
+    "mini" : "https://www.produire-bio.fr/articles-pratiques/methodes-de-traitements-alternatifs-utilises-production-de-poulet-de-chair-bio/",
+    "nom" : " Méthodes de traitements alternatifs utilisés en production de poulet de chair bio "
+  },
+  "labre" :
+  {
+    "mini" : "http://www.ourlivingworld.eu/",
+    "nom" : "Santé en élevage : Comment le durcissement actuel de la réglementation entrave le développement des méthodes naturelles et l’évolution des éleveurs vers des pratiques agroécologiques"
+  },
+  "regle" :
+  {
+    "mini" : "https://www.produire-bio.fr/articles-pratiques/substances-a-base-de-plantes-utilisation-sante-animale-evolutions-reglementaires-necessaires-urgentes/",
+    "nom" : "Les substances à base de plantes et leur utilisation en santé animale : des évolutions réglementaires nécessaires et urgentes ! "
+  }
+}
