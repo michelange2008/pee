@@ -7,6 +7,7 @@ $menu =json_decode(file_get_contents('file/menu.json'));
    <head>
      <meta charset="utf-8">
      <title>plantes en élevage</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" href="css/materialize.min.css">
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
@@ -44,6 +45,14 @@ $menu =json_decode(file_get_contents('file/menu.json'));
              echo '</a></div>';
 
            } ?>
+         </div>
+       </div>
+       <div class="row center">
+         <div class="col s0 m2 l3"></div>
+         <div class="col  s12 m8 l6 center orange darken-4">
+           <a href="https://www.mesopinions.com/petition/animaux/plantes-elevage-soutenons-1052-eleveurs-eleveuses/74532" target="_blank">
+             <h6 class="white-text">Soutenez les éleveurs hors-la-loi: signez la pétition <i class="material-icons">create</i></h6>
+           </a>
          </div>
        </div>
      </div>

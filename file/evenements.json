@@ -1,0 +1,27 @@
+{
+  "petition" :
+  {
+    "nom" : "Soutenez les éleveurs hors-la-loi",
+    "mini" : "https://www.mesopinions.com/petition/animaux/plantes-elevage-soutenons-1052-eleveurs-eleveuses/74532"
+  },
+  "fr3" :
+  {
+    "nom" : "France 3 Bretagne",
+    "mini" : "https://france3-regions.francetvinfo.fr/bretagne/eleveurs-signent-manifeste-avoir-droit-soigner-leurs-betes-plantes-1737895.html"
+  },
+  "consoglobe" :
+  {
+    "nom" : "consoGloble",
+    "mini" : "https://www.consoglobe.com/eleveurs-soigner-les-animaux-avec-des-plantes-manifeste-cg"
+  },
+  "antik" :
+  {
+    "nom" : "Anti-K",
+    "mini" : "https://www.anti-k.org/2019/10/17/hors-la-loi-car-ils-privilegient-les-plantes-aux-antibios-1052-eleveurs-publient-un-manifeste/"
+  },
+  "francebleu" :
+  {
+    "nom" : "France Bleu",
+    "mini" : "https://www.francebleu.fr/infos/agriculture-peche/c-est-illegal-ce-qu-fait-plus-de-1000-eleveurs-bio-utilisent-des-huiles-essentielles-pour-leurs-1571337551"
+  }
+}

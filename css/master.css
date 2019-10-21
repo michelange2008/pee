@@ -11,10 +11,17 @@ li {
 .mb-0 {
   margin-bottom: 0 !important;
 }
+.mb-2 {
+  margin-bottom: 2% !important;
+}
 
 .mt-0 {
   margin-top: 0 !important;
 }
+.justify {
+  text-align: justify;
+}
+
 .menu_items {
   display: flex;
   flex-wrap: wrap;
@@ -86,7 +93,6 @@ li {
 .pnda {
   padding: 10px;
   margin: 10px 0;
-  text-align: justify;
 }
 .plantes_biostim_adapt {
   display: flex;
@@ -101,4 +107,8 @@ li {
 .plante_main {
   background: url("../img/plante_main.svg") no-repeat right;
   background-size: contain;
+}
+.accentuation {
+  color: #006064;
+  font-weight: bold;
 }
