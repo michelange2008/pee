@@ -101,6 +101,7 @@ li {
   background: url("../img/adapt.svg") no-repeat center;
   background-size: contain;
 }
+
 .decale {
   margin-left: 30px;
 }
@@ -111,4 +112,8 @@ li {
 .accentuation {
   color: #006064;
   font-weight: bold;
+}
+
+.texte-vert {
+  color: darkgreen;
 }

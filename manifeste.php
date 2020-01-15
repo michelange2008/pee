@@ -14,7 +14,7 @@
 </div>
 
 <div class="container">
-  <div class="row">
+  <div id="haut" class="row">
     <div class="col s12 center">
       <h2>Le Manifeste</h2>
     </div>
@@ -22,7 +22,8 @@
   <div class="row">
     <div class="col s12 center">
       <p style="font-weight:bold">Plus de 1000 éleveurs on signé les manifeste ci-dessous dans lequel ils reconnaissent pratiquer de la phytothérapie sur leur troupeau
-        et demandent à ce que la législation soit modifiée pour leur permettre de continuer en toute légalité</p>
+        et demandent à ce que la législation soit modifiée pour leur permettre de continuer en toute légalité
+        <a class="texte-vert" href="#carte">(voir la carte)</a></p>
     </div>
   </div>
   <div class="row">
@@ -68,6 +69,18 @@ L’Etat doit en urgence définir un cadre réglementaire spécifique pour pouvo
       <h4>a publié une tribune avec le Manifeste</h4>
 
     </div>
+  </div>
+
+  <div id="carte" class="row my-3">
+
+    <div class="col-md-8">
+
+      <img class="img100" src="img/carte.jpg" alt="Carte" title="Répartition géographique">
+
+      <p class="texte-vert"><a class="texte-vert" href="#haut">Haut de la page</a></p>
+
+    </div>
+
   </div>
 </div>
 <script src="js/materialize.min.js"></script>
