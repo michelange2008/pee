@@ -83,6 +83,12 @@
     "svg" : "trame.svg",
     "lien" : "http://trame.org"
   },
+  "cetapial" :
+  {
+    "nom" : "CETAPIAL",
+    "svg" : "cetapial.jpg",
+    "lien" : "#"
+  },
   "cr" :
   {
     "nom" : "Coordination Rurale",
